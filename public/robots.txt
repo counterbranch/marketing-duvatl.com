@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://duvatl.com/sitemap.xml
+Sitemap: https://www.duvatl.com/sitemap.xml
