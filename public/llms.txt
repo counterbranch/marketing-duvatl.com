@@ -1,0 +1,7 @@
+# DUVATL, Inc.
+
+> DUVATL, Inc. is the company that makes Counterbranch.
+
+## Products
+
+- [Counterbranch](https://counterbranch.com/): runs the same access checks against main and a pull request and shows which access decisions changed. Product details, install and FAQ: https://counterbranch.com/llms.txt
